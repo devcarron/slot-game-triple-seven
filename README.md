@@ -14,7 +14,7 @@
 
 ## Features
 
-- Slot machine ([roll_slot_machine](https://github.com/extrawest/roll_slot_machine) package)
+- Slot machine ([roll_slot_machine](https://github.com/devcarron/slot-game-triple-seven.git) package)
 - Ability to make bet, user balance is locally stored
 - Spin wheel each 8 hours
 - Different lotties for prizes and balance increasing
@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/117409513/216936860-b72e2d04-4780-4d4c
 **1. Clone this repo to your folder:**
 
 ```
-git clone https://github.com/extrawest/triple_seven_slots_game.git
+git clone https://github.com/devcarron/slot-game-triple-seven.git
 ```
 
 **2. Change current directory to the cloned folder:**
