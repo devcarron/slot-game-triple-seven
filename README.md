@@ -147,8 +147,8 @@ Created by Roman Ovsepian
 [Extrawest.com](https://www.extrawest.com), 2023
 
 ## Contact
-- [Twitter](https://x.com/blacksky_jose)
-- [Telegram](https://t.me/blacksky_jose)
-- [Discord](https://discord.gg/blacksky_jose)
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)
 
 ---
